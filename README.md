@@ -6,10 +6,10 @@ I'm a third year undergraduate pursuing Int. Mtech in Mathematics and Computing 
 
 ### My Plus Points ✅
 
-🕵 Detail Oriented <br/>
-⌛ Multi-tasker <br/>
-🤝 Team Player <br/>
-👂🏻 Good Listener <br/>
++ Detail Oriented 🕵 
++ Multi-tasker ⌛ 
++ Team Player 🤝
++ Good Listener 👂
 
 ***
 
