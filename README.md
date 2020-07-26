@@ -1,6 +1,6 @@
 ### Hi there 👋 ,I'm Roshan Kanwar 😄
 
-I'm a third year undergraduate pursuing Int. Mtech in Mathematics and Computing at IIT(ISM) Dhanbad. I'm a passionate full stack web developer and competitive coder who enjoys comprehending and exploring new technology. Some tech stacks that I enjoy working with include Reactjs, Material-UI, Recharts, Nodejs and PostgreSQL. I have been working as a Reactjs Developer Intern since June.
+I'm a third year undergraduate pursuing Int. Mtech in Mathematics and Computing at IIT(ISM) Dhanbad. I'm a passionate full stack web developer and competitive coder who enjoys comprehending and exploring new technology. Some tech stacks that I enjoy working with include Reactjs, Material-UI, Recharts, Nodejs and PostgreSQL. I have been working as a Reactjs Developer Intern since June and currently I'm working as an Associated Research & Development Executive Intern.
 
 ***
 
