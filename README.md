@@ -18,7 +18,7 @@ I'm a third year undergraduate pursuing Int. Mtech in Mathematics and Computing 
 * [LinkedIn](https://www.linkedin.com/in/roshan0708/)
 * [Facebook](https://www.facebook.com/roshan.kanwar.9)
 * [Hackerrank](https://www.hackerrank.com/roshan_0708)
-* [Email](rkanwar0708@gmail.com)
+* rkanwar0708@gmail.com
 
 
 
