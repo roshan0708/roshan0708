@@ -13,17 +13,12 @@ I'm a third year undergraduate pursuing Int. Mtech in Mathematics and Computing 
 
 ***
 
-### My Github Stats
-
-![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshan0708&show_icons=true)
-
-***
-
 ### Me Around the Web 📱
 
 * [LinkedIn](https://www.linkedin.com/in/roshan0708/)
 * [Facebook](https://www.facebook.com/roshan.kanwar.9)
 * [Hackerrank](https://www.hackerrank.com/roshan_0708)
+* [Email](rkanwar0708@gmail.com)
 
 
 
