@@ -37,7 +37,8 @@ I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a third year un
 </a>
 
 <br/>
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=roshan0708)](https://github.com/roshan0708/github-readme-stats)
+My Github Stats 📊
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roshan0708&show_icons=true&theme=gotham" alt="roshan0708" />
 
 
 
