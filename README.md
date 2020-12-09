@@ -1,24 +1,46 @@
-### Hi there 👋 ,I'm Roshan Kanwar 😄
+<img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="30px" > <br/>
+![](https://visitor-badge.glitch.me/badge?page_id=roshan0708.roshan0708) <br/>
 
-I'm a third year undergraduate pursuing Int. Mtech in Mathematics and Computing at IIT(ISM) Dhanbad. I'm a passionate full stack web developer and competitive coder who enjoys comprehending and exploring new technology. Some tech stacks that I enjoy working with include Reactjs, Material-UI, Recharts, Nodejs and MongoDB. I have previously done internship at FindMind Analytics, Relive Technology and Happiest Neurons in Software Engineer domain and have not only polished my technical skills but also my professional skills. Feel free to connect via linkedin if you have any doubts or questions. 😁
+I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a third year undergraduate pursuing Int. Mtech in Mathematics and Computing at [IIT(ISM) Dhanbad](https://www.iitism.ac.in/). I'm a Full Stack Developer 💻 [@NVCTI], Competitive coder 🤓, and a Former Software Engineer Intern 👨🏻‍💻 [@Happiest Neurons](https://happiestneurons.com/), [@Relive](https://www.relive.work/), and [@FindMind Analytics](https://www.findmind.in/).
 
-***
+**Things You Should know about Me!**
 
-### My Plus Points ✅
+- 👨🏻‍💻 I'm currently working as a full stack developer at NVCTI at IIT(ISM) Dhanbad.
+- 📖 I'm currently learning to use django and flask.
+- ✍🏻 I often write in my leisure time.
+- 📧 Reach me out at rkanwar0708@gmail.com.
+- 🤝🏻 Always open for collaboration.
 
-+ Detail Oriented 🕵 
-+ Multi-tasker ⌛ 
-+ Team Player 🤝
-+ Good Listener 👂
+**Technologies I frequently use:**
 
-***
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scss/scss.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### Me Around the Web 📱
+<br/> and many more...
 
-* [LinkedIn](https://www.linkedin.com/in/roshan0708/)
-* [Facebook](https://www.facebook.com/roshan.kanwar.9)
-* [Hackerrank](https://www.hackerrank.com/roshan_0708)
-* rkanwar0708@gmail.com
+**Me Around the Web 📱:**
+
+<a href="https://www.linkedin.com/in/roshan0708/">
+  <img align="left" alt="Roshan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/roshan.kanwar.9">
+  <img align="left" alt="Roshan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.hackerrank.com/roshan_0708">
+  <img align="left" alt="Roshan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
+<br/>
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=roshan0708)](https://github.com/roshan0708/github-readme-stats)
+
 
 
 
