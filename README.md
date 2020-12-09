@@ -1,9 +1,9 @@
 <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100px" > <br/>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=roshan0708.roshan0708) <br/>
 
 I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a third year undergraduate pursuing Int. Mtech in Mathematics and Computing at [IIT(ISM) Dhanbad](https://www.iitism.ac.in/). I'm a Full Stack Developer 💻 [@NVCTI](), Competitive coder 🤓, and a Former Software Engineer Intern 👨🏻‍💻 [@Happiest Neurons](https://happiestneurons.com/), [@Relive](https://www.relive.work/), and [@FindMind Analytics](https://www.findmind.in/).
 
-<br/>
 
 **Things You Should know about Me!**
 
@@ -13,7 +13,6 @@ I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a third year un
 - 📧 Reach me out at rkanwar0708@gmail.com.
 - 🤝🏻 Always open for collaboration.
 
-<br/>
 
 **Technologies I frequently use:**
 
@@ -28,7 +27,6 @@ I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a third year un
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> and many more...
 
-<br/>
 
 **Me Around the Web 📱:**
 
@@ -42,10 +40,10 @@ I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a third year un
   <img align="left" alt="Roshan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
-<br/>
+<br/><br/>
 
-**My Github Stats 📊**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roshan0708&show_icons=true&theme=gotham" alt="roshan0708" />
+**My Github Stats 📊:**
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=roshan0708&show_icons=true&theme=gotham" alt="roshan0708" />
 
 
 
