@@ -2,12 +2,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=roshan0708.roshan0708) <br/>
 
-I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a third year undergraduate pursuing Int. Mtech in Mathematics and Computing at [IIT(ISM) Dhanbad](https://www.iitism.ac.in/). I'm a Full Stack Developer 💻 [@NVCTI](), Competitive coder 🤓, and a Former Software Engineer Intern 👨🏻‍💻 [@Happiest Neurons](https://happiestneurons.com/), [@Relive](https://www.relive.work/), and [@FindMind Analytics](https://www.findmind.in/).
+I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a third year undergraduate pursuing Int. Mtech in Mathematics and Computing at [IIT(ISM) Dhanbad](https://www.iitism.ac.in/). I'm a Full Stack Developer 💻 [@NVCTI]() and [@StuDev](https://studev.org/), Competitive coder 🤓, and a Former Software Engineer Intern 👨🏻‍💻 [@Happiest Neurons](https://happiestneurons.com/), [@Relive](https://www.relive.work/), and [@FindMind Analytics](https://www.findmind.in/).
 
 
 **Things You Should know about Me!**
 
-- 👨🏻‍💻 I'm currently working as a full stack developer at NVCTI at IIT(ISM) Dhanbad.
+- 👨🏻‍💻 I'm currently working as a full stack developer at StuDev and NVCTI at IIT(ISM) Dhanbad.
 - 📖 I'm currently learning to use django and flask.
 - ✍🏻 I often write in my leisure time.
 - 📧 Reach me out at rkanwar0708@gmail.com.
