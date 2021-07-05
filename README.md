@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=roshan0708.roshan0708) <br/>
 
-I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a pre-final year undergraduate pursuing Integrated M.Tech. in Mathematics and Computing at [IIT(ISM) Dhanbad](https://www.iitism.ac.in/). I'm a Full Stack Developer 💻 [@NVCTI](), Competitive coder 🤓, and a Former Software Engineer Intern 👨🏻‍💻 [@Karkhana](https://www.karkhana.app/), [@Happiest Neurons](https://happiestneurons.com/), [@Relive](https://www.relive.work/), and [@FindMind Analytics](https://www.findmind.in/).
+I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a pre-final year undergraduate pursuing Integrated M.Tech. in Mathematics and Computing at [IIT(ISM) Dhanbad](https://www.iitism.ac.in/). I'm a Full Stack Developer 💻 [@NVCTI](), Competitive coder 🤓, and a Former Software Engineer Intern 👨🏻‍💻 [@Karkhana App](https://www.karkhana.app/), [@Happiest Neurons](https://happiestneurons.com/), [@Relive](https://www.relive.work/), and [@FindMind Analytics](https://www.findmind.in/).
 
 
 **Things You Should know about Me!**
