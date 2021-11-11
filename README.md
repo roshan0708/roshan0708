@@ -2,12 +2,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=roshan0708.roshan0708) <br/>
 
-I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a pre-final year undergraduate pursuing Integrated M.Tech. in Mathematics and Computing at [IIT(ISM) Dhanbad](https://www.iitism.ac.in/). I'm a Software Engineer Intern @[Xiaomi India](https://www.mi.com/in/) a Full Stack Developer 💻 [@NVCTI](), Competitive coder 🤓, and a Former Software Engineer Intern 👨🏻‍💻 [@Karkhana App](https://www.karkhana.app/), [@Happiest Neurons](https://happiestneurons.com/), [@Relive](https://www.relive.work/), and [@FindMind Analytics](https://www.findmind.in/).
+I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a pre-final year undergraduate pursuing Integrated M.Tech. in Mathematics and Computing at [IIT(ISM) Dhanbad](https://www.iitism.ac.in/). I'm a Software Development Engineer Intern [@Swiggy](https://www.swiggy.com/), Software Engineer Intern [@TruckX](https://truckx.com/), Competitive coder 🤓, and a Former Software Engineer Intern 👨🏻‍💻 [@Xiaomi India](https://www.mi.com/in/), [@Karkhana App](https://www.karkhana.app/), [@Happiest Neurons](https://happiestneurons.com/), [@Relive](https://www.relive.work/), and [@FindMind Analytics](https://www.findmind.in/).
 
 
 **Things You Should know about Me!**
 
-- 👨🏻‍💻 I'm currently working as a SWE Intern at Xiaomi India.
+- 👨🏻‍💻 I'm currently working as a SDE Intern at Swiggy and SWE Intern at TruckX.
 - 📖 I'm currently learning to use django and flask.
 - ✍🏻 I often write and watch anime in my leisure time.
 - 📧 Reach me out at rkanwar0708@gmail.com.
