@@ -1,14 +1,14 @@
 <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100px" > <br/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=roshan0708.roshan0708) <br/>
+I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), Software Development Engineer I [@Amazon](https://www.amazon.in/) working majorly with C and SQL, graduated from [IIT(ISM) Dhanbad](https://www.iitism.ac.in/) with Integrated Masters in Mathematics and Computing.
 
-I'm [Roshan Kanwar](https://roshan0708.github.io/portfolio_v2/), a final year undergraduate pursuing Integrated M.Tech. in Mathematics and Computing at [IIT(ISM) Dhanbad](https://www.iitism.ac.in/). I'm Full Stack Developer, Competitive coder 🤓, and a Former Software Development Engineer Intern [@Amazon](https://www.amazon.in/), Software Engineer Intern 👨🏻‍💻 [@Swiggy](https://www.swiggy.com/), [@Xiaomi India](https://www.mi.com/in/), [@Karkhana App](https://www.karkhana.app/), [@Happiest Neurons](https://happiestneurons.com/), [@Relive](https://www.relive.work/), and [@FindMind Analytics](https://www.findmind.in/).
+Former Intern 👨🏻‍💻  [@Binance](https://www.binance.com), [@Amazon](https://www.amazon.in/), [@Swiggy](https://www.swiggy.com/), [@Xiaomi India](https://www.mi.com/in/), [@Karkhana App](https://www.karkhana.app/), [@Happiest Neurons](https://happiestneurons.com/), [@Relive](https://www.relive.work/), [@FindMind Analytics](https://www.findmind.in/), and more.
 
 
 **Things You Should know about Me!**
 
-- 📖 I'm currently learning to use django and flask.
-- ✍🏻 I often write and watch anime in my leisure time.
+- 📖 I'm currently working with C and SQL.
+- 🎮 I often watch anime in my leisure time along with some gaming.
 - 📧 Reach me out at rkanwar0708@gmail.com.
 - 🤝🏻 Always open for collaboration.
 
